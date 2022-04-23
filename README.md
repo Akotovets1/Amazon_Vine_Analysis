@@ -15,22 +15,22 @@ The transformed data was then uploaded into AWS RDS.
 
 ### How many Vine reviews and non-Vine reviews were there?
 
-Total number of reviews were 4366916
+The total number of reviews was 4366916
 
-Total number of 5-star reviews were 2639935
+The total number of 5-star reviews was 2639935
 
 
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
-Total number of Vine 5-star reviews were 13
+The total number of Vine 5-star reviews was 13 
 
-Total number of non-Vine 5-star reviews were 14475
+The total number of non-Vine 5-star reviews was 14475
 
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-Percentage of Vine 5-star reviews were 59%
+The Percentage of Vine 5-star reviews was 59%
 
-Percentage of non-Vine 5-star reviews were 54%
+The Percentage of non-Vine 5-star reviews was 54%
 
 
 ## Summary
